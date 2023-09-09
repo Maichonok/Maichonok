@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/maichonok/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maichonok&layout=compact" alt="Top Langs"/></a>
-<a href="https://github-readme-stats.vercel.app/api?username=maichonok" target="_blank"><img src="https://github.com/maichonok/github-readme-stats" alt="Maya's GitHub stats"/></a>
-![](https://komarev.com/ghpvc/?username=maichonok)
+<a href= "https://github.com/maichonok/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=maichonok" alt="Maya's GitHub stats"/></a>
+<a href= "https://komarev.com/ghpvc/?username=maichonok" target="_blank"></a>
 </p>
 
