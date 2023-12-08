@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Maya
 
-- 🔭 I am currently studying a web development course by Yandex Practicum and will finish this course in 2023
+- 🔭 I am currently studying a web development
 - 🌱 I’m currently learning Swedish and improving my English skills
 - 📫 How to reach me: mayamatueva@gmail.com
 
